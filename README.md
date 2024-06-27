@@ -8,7 +8,7 @@ At school I learn Java as you can find it in the book - but I often deepen my kn
 - [Yup, that’s me](#about-myself)
 - [Contents](#contents)
 - [A Project: JAND](#about-jand)
-- []()
+- [Projects on this profile](#more-projects)
 - [What GitHub suggested I tell you about myself ;)](#aaand-more)
 - [Discord](#discord)
 
